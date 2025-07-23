@@ -53,15 +53,6 @@ An AI-driven, context-aware grading platform that evaluates diverse submission f
 - (Add your publications here. Example:)
   - **"Transformer Based Amharic Headline Generation using Sub-word2Vec Representation"** – Widening NLP Workshop, 2022.
   - **"MasakhaNEWS: News Topic Classification for African languages"** – Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)", 2023.
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahlettaye&show_icons=true&theme=default" alt="Mahlet's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahlettaye&layout=compact" alt="Top Languages" height="150"/>
-</p>
-
 ---
 
 ## 🏅 Badges & Certifications
