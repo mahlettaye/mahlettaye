@@ -1,43 +1,48 @@
-# 👋 Hi, I'm Mahlet Taye
+# Mahlet Taye
 
 **AI Solution Architect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahlet-taye-3b98a9144/)
 
 ---
 
-### 🚀 About Me
+## 💡 About Me
 
-As an AI Solution Architect, I bring extensive experience as a Backend Team Lead and Machine Learning Engineer to design scalable, data-driven AI systems. My expertise spans backend development, CI/CD implementation, and customizing machine learning models to address complex business challenges.
+As an AI Solution Architect, I design and deliver robust, scalable, and innovative AI-driven systems that solve complex business problems. My expertise spans backend engineering, MLOps, and leadership in deploying production-grade solutions for enterprises and educational platforms.
 
-- **Leadership:** Led and mentored teams to deliver innovative, AI-powered solutions.
-- **Technical Focus:** Specialized in Python, NLP (Hugging Face Transformers), Scikit-learn, and MLOps best practices.
-- **Strategic Impact:** Excel in solving intricate problems and delivering robust systems for educational and enterprise applications through effective communication and strategic leadership.
-
----
-
-### 🛠️ Skills & Technologies
-
-- **Languages & Frameworks:** Python, LLM, Deep Learning, Machine Learning, Scikit-learn, Hugging Face Transformers
-- **Cloud & MLOps:** AWS, MLflow, Airflow, Docker
-- **Big Data & Databases:** Apache Spark, Kafka, PostgreSQL, MongoDB
-- **Model Explainability:** SHAP, LIME
-- **Development Practices:** Backend development, CI/CD, Team Leadership
+- **Strategic Leadership:** Proven experience as Backend Team Lead and Machine Learning Engineer, excelling at guiding teams to successful project delivery.
+- **Technical Excellence:** Specializing in Python, LLMs, NLP (Hugging Face Transformers), and advanced data architecture.
+- **Innovation:** Architect of the Smart Grader system, automating contextual grading with AI and achieving 85% validated accuracy.
 
 ---
 
-### 🌟 Featured Project
+## 🧠 Core Competencies
 
-#### **Smart Grader**
-
-An AI-driven system designed to evaluate diverse submission formats—
-- including code and
-- written reports with high accuracy. Leveraging advanced natural language processing (NLP) and machine learning, Smart Grader incorporates contextual rubrics, historical task performance, and current class performance metrics to deliver assessments with **85% accuracy**, validated through human verification.
-
-This project exemplifies the application of AI in automating complex, context-aware grading processes, with significant potential for educational and professional settings.
+- **AI/ML & Data Science:** Machine Learning, Deep Learning, Python, NLP, Scikit-learn, SHAP, LIME
+- **Cloud & MLOps:** AWS, Docker, MLflow, Airflow, CI/CD
+- **Data Engineering:** Apache Spark, Kafka, PostgreSQL, MongoDB
+- **Leadership:** Team management, solution design, stakeholder communication
 
 ---
 
-### 📫 Connect with Me
+## 🌟 Featured Project
+
+### 🚀 Smart Grader
+
+An AI-driven, context-aware grading platform that evaluates diverse submission formats—including code and written reports—with exceptional accuracy.  
+**Key Highlights:**
+- Utilizes advanced NLP and machine learning to assess student work using contextual rubrics, historical task performance, and class metrics.
+- Achieves **85% grading accuracy**, validated by human experts.
+- Demonstrates the transformative potential of AI in automating complex, subjective evaluation processes for education and professional training.
+
+---
+
+## 📈 Professional Mission
+
+I am passionate about bridging the gap between artificial intelligence research and real-world impact. I thrive on architecting systems that empower organizations to harness data, automate decision-making, and deliver measurable results at scale.
+
+---
+
+## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mahlet-taye-3b98a9144/)
 
