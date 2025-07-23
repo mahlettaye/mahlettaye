@@ -59,7 +59,7 @@ An AI-driven, context-aware grading platform that evaluates diverse submission f
 ## 📌 Pinned Projects
 
 - [Smart Grader](https://github.com/mahlettaye/complaint-chatbot) — A RAG-based chatbot that answers questions about credit card complaints using the Consumer Financial Protection Bureau complaint database.
-- [Smart Grader](https://github.com/mahlettaye/Sales_prediction)- The aim of this preoject is to perform exploratory analysis on the rossmann store sales data. Based on the exploration we build an end to end model that can predict sales for rossmann stores.
+- [Sales_Prediction](https://github.com/mahlettaye/Sales_prediction)- The aim of this preoject is to perform exploratory analysis on the rossmann store sales data. Based on the exploration we build an end to end model that can predict sales for rossmann stores.
 
 ---
 
