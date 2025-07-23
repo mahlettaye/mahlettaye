@@ -29,7 +29,9 @@ As an AI Solution Architect, I bring extensive experience as a Backend Team Lead
 
 #### **Smart Grader**
 
-An AI-driven system designed to evaluate diverse submission formats—including code and written reports—with high accuracy. Leveraging advanced natural language processing (NLP) and machine learning, Smart Grader incorporates contextual rubrics, historical task performance, and current class performance metrics to deliver assessments with **85% accuracy**, validated through human verification.
+An AI-driven system designed to evaluate diverse submission formats—
+- including code and
+- written reports with high accuracy. Leveraging advanced natural language processing (NLP) and machine learning, Smart Grader incorporates contextual rubrics, historical task performance, and current class performance metrics to deliver assessments with **85% accuracy**, validated through human verification.
 
 This project exemplifies the application of AI in automating complex, context-aware grading processes, with significant potential for educational and professional settings.
 
