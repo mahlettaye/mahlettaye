@@ -50,9 +50,8 @@ An AI-driven, context-aware grading platform that evaluates diverse submission f
 
 ## 📚 Publications
 
-- (Add your publications here. Example:)
-  - **"Transformer Based Amharic Headline Generation using Sub-word2Vec Representation"** – Widening NLP Workshop, 2022.
-  - **"MasakhaNEWS: News Topic Classification for African languages"** – Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)", 2023.
+- **"Transformer Based Amharic Headline Generation using Sub-word2Vec Representation"** – Widening NLP Workshop, 2022.
+- **"MasakhaNEWS: News Topic Classification for African languages"** – Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)", 2023.
 ---
 
 ## 🏅 Badges & Certifications
